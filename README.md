@@ -1,4 +1,4 @@
-<h1>Nekotoy Robot</h1>
+## Nekotoy Robot
 <p align="center">
     <a href="https://github.com/xxxzoro/NekoRobot/stargazers"><img src="https://img.shields.io/github/stars/xxxzoro/NekoRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
