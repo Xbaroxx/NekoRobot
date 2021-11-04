@@ -1,9 +1,9 @@
 ## Nekotoy Robot
 <p align="center">
     <a href="https://github.com/xxxzoro/NekoRobot/stargazers"><img src="https://img.shields.io/github/stars/xxxzoro/NekoRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-</p>
 
-[!](https://telegra.ph/file/5f8deba41cc7a86f9031e.jpg)]
+<p align="center">
+  <img arc="https://telegra.ph/file/5f8deba41cc7a86f9031e.jpg">
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
