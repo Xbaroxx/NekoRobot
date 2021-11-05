@@ -108,7 +108,7 @@ Click on the button bellow to get description about specifics command ××
 """
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [X•BaroX](t.me/Xbarok) \
+ You can support the project [xxxzoro](t.me/xxxzoroone) \
  Supporting isnt always financial! [Neko update](t.me/NekooUpdate) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
