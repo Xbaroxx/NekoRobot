@@ -85,7 +85,7 @@ Hit the /help or tap on button to se available command on me.
 buttons = [
         [
         InlineKeyboardButton(
-            text="➕️ Add Neko to tour group ➕️", url="t.me/NekotpiRobot?startgroup=true"
+            text="➕️ Add Nekoo to tour group ➕️", url="t.me/NekotpiRobot?startgroup=true"
         ),
     ],
     [
