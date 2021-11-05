@@ -1,4 +1,4 @@
-from NaoRobot import telethn as tbot
+from NekoRobot import telethn as tbot
 import os
 import re
 import bs4
