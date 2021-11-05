@@ -1,7 +1,7 @@
 {
       "name": "NekoRobot",
       "description": "Theme anime Telegram group management bot.",
-      "logo": "https://telegra.ph/file/36ab7fcf96c86ecfb44c2.jpg",
+      "logo": "https://telegra.ph/file/5f8deba41cc7a86f9031e.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Memek"
       ],   
-   "repository": "https://github.com/Xbaroxx/NekoRobot",
+   "repository": "https://github.com/xxxzoro/NekoRobot",
    "addons": [
       {
          "options": {
