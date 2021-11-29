@@ -1,6 +1,6 @@
 ## Nekotoy Robot
 <p align="center">
-    <a href="https://github.com/xxxzoro/NekoRobot/stargazers"><img src="https://img.shields.io/github/stars/xxxzoro/NekoRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/Soedirmand/NekoRobot/stargazers"><img src="https://img.shields.io/github/stars/xxxzoro/NekoRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/5f8deba41cc7a86f9031e.jpg">
